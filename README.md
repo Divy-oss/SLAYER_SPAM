@@ -9,9 +9,9 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
 </p>
 
-<h1 align="center"><b>⚡️PROFESSOR 𝐒𝐏𝐀𝐌⚡️</b></h1>
+<h1 align="center"><b>⚡️Slayer 𝐒𝐏𝐀𝐌⚡️</b></h1>
 
-<h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
+<h4 align="center">⚡️𝐓𝐇𝐄 ⚡️</h4>
 
 <p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://files.catbox.moe/59nyop.jpg" width="400"></a></p>
 
